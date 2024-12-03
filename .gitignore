@@ -1,3 +1,6 @@
 **/*.txt
+#shame
+src/aoc2024/day2/Part2.java 
+
 bin 
 
